@@ -1,2 +1,3 @@
 # converter1
-converts a number to binary or hex
+Sample JS module
+
